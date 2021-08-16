@@ -14,7 +14,8 @@
 
 p.pierricbuchez {
 
-        opacity: 0;
+        opacity: 0.5;
+        text-align: center
 }
 
 p.pierricbuchez:hover {
