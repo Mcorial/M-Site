@@ -11,3 +11,13 @@
 		display: none;
 	}
 }
+
+p.pierricbuchez {
+
+        opacity: 0;
+}
+
+p.pierricbuchez:hover {
+     
+        opacity: 1;
+}
