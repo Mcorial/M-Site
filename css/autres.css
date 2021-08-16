@@ -1,4 +1,4 @@
-@media only screen and (min-device-width : 200px) and (max-device-width : 800px) {
+@media screen and (max-width: 600px) {
 	img.logo{
 		display: none;
 	}
