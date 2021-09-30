@@ -28,10 +28,10 @@ MyEcoria.sol: ipfs://QmVEos8qbarrqPbQwg6MiMXvzwv4Dok8UPwVxjKDWtR5u9
 metadata.json: ipfs://Qmc6vfyJvUJxoVggu4NRSYcYYFnD4pvYJEDGGEqdUvmH4U
 
 ## Avalanche
-token: https://testnet.bscscan.com/token/0x81d21c19b3fa38d17edad6cec4d91a00b060cb99
+token: https://cchain.explorer.avax-test.network/tokens/0xAdC81998f62afe750d7feFc12Ecbc0e8b9147E35/token-transfers
 </br>
 </br>
-contract: https://testnet.bscscan.com/address/0x81d21c19b3fa38d17edad6cec4d91a00b060cb99
+contract: https://cchain.explorer.avax-test.network/address/0xAdC81998f62afe750d7feFc12Ecbc0e8b9147E35/transactions
 </br>
 </br>
 MyEcoria.sol: ipfs://QmP4mQ8a6oN2einw5aTyk97qis3pbp2MyxiUTT5nsMtDvB
