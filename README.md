@@ -39,5 +39,18 @@ MyEcoria.sol: ipfs://QmP4mQ8a6oN2einw5aTyk97qis3pbp2MyxiUTT5nsMtDvB
 </br>
 metadata.json: ipfs://QmXXAnjD8QoxtjL97gD2ofeaeVqS751RPajShtaA8bEqso
 
+## Avalanche
+token: https://rinkeby.etherscan.io/token/0x0A5252EBcC54Eb472C72a4E6331aC74B6f3Bb721
+</br>
+</br>
+contract: https://rinkeby.etherscan.io/address/0x0A5252EBcC54Eb472C72a4E6331aC74B6f3Bb721
+</br>
+</br>
+MyEcoria.sol: ipfs://QmVEos8qbarrqPbQwg6MiMXvzwv4Dok8UPwVxjKDWtR5u9
+</br>
+</br>
+metadata.json: ipfs://Qmc6vfyJvUJxoVggu4NRSYcYYFnD4pvYJEDGGEqdUvmH4U
+
+
 ## Autres
 ipfs site: https://ipfs.io/ipfs/QmXgyvyrgALqqQUdBS6Pz6Gee1EuWNafJ6yATW9cPtiAF8
